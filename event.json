@@ -20,14 +20,14 @@
             "s3SchemaVersion":"1.0",
             "configurationId":"testConfigRule",
             "bucket":{  
-               "name":"lambdapics",
+               "name":"lambdabb",
                "ownerIdentity":{  
                   "principalId":"A3NL1KOZZKExample"
                },
-               "arn":"arn:aws:s3:::lambdapics"
+               "arn":"arn:aws:s3:::lambdabb"
             },
             "object":{  
-               "key":"amazon-web-services-lambda.jpg",
+               "key":"HappyFace.jpg",
                "size":17565,
                "eTag":"59103e49494baafabe627ce8476c9a3e",
                "versionId":"096fKKXTRTtl3on89fVO.nfljtsv6qko"
